@@ -32,3 +32,18 @@ Run this script on the server to host auctions. The first client connection is t
 **Example**:  
 ```bash
 $ python3 auc_server_rdt.py <port>
+```
+
+
+### **Module Name**: `auc_client_rdt.py`
+
+**Description**:  
+This script implements a client that can either act as a seller or a buyer. Sellers submit auction requests, while buyers submit bids. Reliable data transfer is implemented using a stop-and-wait protocol with optional packet loss simulation.
+
+**Usage**:  
+Run this script to connect to the auction server as either a seller or buyer. The server must be running for this client to connect.
+
+**Example**:  
+```bash
+$ python3 auc_client_rdt.py <Server IP Address> <ServerPort> <RDT Port> <rate>
+
