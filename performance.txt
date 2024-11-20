@@ -1,0 +1,29 @@
+Team Members: Sharmila Reddy Anugula (sanugul@ncsu.edu)
+              Rakesh Kannan (rkannan3@ncsu.edu)
+Date: 20 November 2024
+
+
+Number of Bytes:  1176996 Bytes
+Packet-Loss Rate: 0.1
+TCT: 122.23 sec
+AT: 77028.8 bps
+
+Number of Bytes:  1176996 Bytes
+Packet-Loss Rate: 0.2
+TCT: 398.59 sec
+AT: 23623.1 bps
+
+Number of Bytes:  1176996 Bytes
+Packet-Loss Rate: 0.3
+TCT: 704.93 sec
+AT: 13357.2 bps
+
+Number of Bytes:  1176996 Bytes
+Packet-Loss Rate: 0.4
+TCT: 1233.4 sec
+AT: 7634.1 bps
+
+Number of Bytes:  1176996 Bytes
+Packet-Loss Rate: 0.5
+TCT: 2424.7 sec
+AT: 3883.2 bps
